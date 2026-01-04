@@ -54,6 +54,12 @@ app.*.map.json
 # Android local properties (contains user-specific paths)
 android/local.properties
 
+# Submission/guide files (not for repository)
+INSTRUCTOR_SUBMISSION_GUIDE.md
+IMPLEMENTATION_SUMMARY.md
+BACKEND_SUBMISSION.md
+BACKEND_API_CODE_SUBMISSION.txt
+
 # Generated files
 windows/flutter/generated_plugin_registrant.cc
 windows/flutter/generated_plugin_registrant.h
